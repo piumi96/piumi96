@@ -1,6 +1,8 @@
-## Hi there, fellow <*developer*/> 👋 
+## Hi there! Nice of you to visit 👋 
 
 I'm *Piumi Perera*!  😄
+
+Currently a final-year undergraduate from the Faculty of IT, University of Moratuwa, Sri Lanka
 
 How to reach me: 
   * Connect with me on [LinkedIn](https://www.linkedin.com/in/piumi96/)
