@@ -2,7 +2,7 @@
 
 I'm *Piumi Perera*!  😄
 
-Currently a final-year undergraduate from the Faculty of IT, University of Moratuwa, Sri Lanka
+Currently  a  graduate from the Faculty of IT, University of Moratuwa, Sri Lanka
 
 How to reach me: 
   * Connect with me on [LinkedIn](https://www.linkedin.com/in/piumi96/)
